@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+### Go template
+>>>>>>> 91c1aa6d90f00f2bb09e592029ffdd3083d38f28
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
@@ -23,5 +27,11 @@ _testmain.go
 *.test
 *.prof
 
+<<<<<<< HEAD
 # ignoring .idea folder
+=======
+# Created by .ignore support plugin (hsz.mobi)
+
+# Added .idea from Intellij
+>>>>>>> 91c1aa6d90f00f2bb09e592029ffdd3083d38f28
 .idea/
